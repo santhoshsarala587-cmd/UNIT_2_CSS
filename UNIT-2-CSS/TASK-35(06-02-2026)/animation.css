@@ -1,0 +1,12 @@
+div{
+
+animation:move 2s infinite;
+
+}
+
+@keyframes move{
+
+from{left:0;}
+to{left:200px;}
+
+}
